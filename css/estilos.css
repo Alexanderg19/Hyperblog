@@ -1,7 +1,8 @@
 body {
+    background-color: #1e1f24;
+    color:#333; 
     text-align: center;
     font-family: "Arial";
-    color:black; 
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -9,10 +10,12 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
+    height: 80%;
+    padding: 0;
     text-align: left;
-    border: 1px solid rgb(43, 42, 42);
+    border: 1px solid #ddd;
     margin: 0 auto;
+    font-size: 30px;
 }
 
 
@@ -27,21 +30,30 @@ body {
     font-size: 35px;
 }
 
+#cabecera #logo {
+    width: 40px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline {
     margin: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
-    padding: 0 0 0 1em;
 }
 
 #container h1 {
-    font-size: 30px;
+    font-size: 50px;
 }
 
 #post {
+    background-color: white;
     padding: 1em;
+    height: 80%;
 }
 
 #input {
     text-align: center;
+    background: white;
+
 }
+
