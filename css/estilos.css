@@ -51,13 +51,6 @@ body {
     height: 80%;
 }
 
-#footer{
-    background-color: #777;
-    color: white;
-    text-align: center;
-    padding: 0.5em; 	
-}
-
 #input {
     text-align: center;
     background: white;
