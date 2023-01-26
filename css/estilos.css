@@ -57,6 +57,7 @@ body {
 #boton-suscripcion {
     width: 100px;
     height: 36px;
+    margin-top: 20px;
     border: 2px solid transparent;
     border-radius: 8px;
     font-family: 'Barlow Semi Condensed', sans-serif;
