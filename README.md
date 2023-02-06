@@ -10,6 +10,7 @@ Un blog increíble para el [**curso de Git y GitHub**](https://platzi.com/cursos
 - Flujos de trabajo en un entorno profesional 
 - Manejo de GitHub y todas las herramientas que este ofrece. 
 - Clases entretenidas y fáciles de entender y aplicar.
+- Creado por el increíble platzi team.
 
 **Nota:** Este **README** no es algo que quiero que tomes como ejemplo del grandioso trabajo. 
 
